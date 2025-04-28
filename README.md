@@ -16,4 +16,4 @@ The columns that had object data types were dropped from the datafram becuase th
 
 # modeling
 
-For the modeling I did an elbow plot and silhouette polt with and without scaling. Based on the result from the plots I determined how many clusters were present in the dataframe and used that for my prediciton .
+For the modeling I did an elbow plot and silhouette polt with and without scaling. Based on the result from the plots I determined how many clusters were present in the dataframe and used that for my prediciton. I used PCA to better show the clusters and then I labled what topic each cluster represented.
